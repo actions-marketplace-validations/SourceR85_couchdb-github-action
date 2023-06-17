@@ -1,4 +1,4 @@
-name: "CouchDB in GitHub Actions"
+name: "CouchDB in GitHub Actions (2023)"
 description: "Start a CouchDB server (on port 5984)"
 
 branding:
